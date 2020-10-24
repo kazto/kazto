@@ -1,6 +1,55 @@
-### Kazto TAKAHASHI
+## Kazto TAKAHASHI
 
-[kazto.dev](https://kazto.dev/)
+### Contacts
+
+- [kazto.dev](https://kazto.dev/)
+- [twitter](https://twitter.com/bainarian)
+- [wantedly](https://www.wantedly.com/id/kazto)
+- [linkedin](https://www.linkedin.com/in/kazto/)
+
+### Interested In (Want to get a job)
+
+- Software Engineer Recruitment
+- Software Engineer Training
+- Engineer Team Building
+- 1 on 1
+- Community Management
+
+### Skills
+
+#### Programming
+
+- C / C++ / C# (10 years or more)
+- Ruby (10 years or more)
+- Shell (10 years or more)
+- PHP (2 years)
+- Python (2 years)
+
+#### Middleware
+
+- MySQL (2 years)
+
+#### Infrastructures
+
+- Windows
+- macOS
+- Linux
+- AWS
+- Docker
+- Vagrant
+
+#### Framework
+
+- Laravel
+- CakePHP
+- OpenCV
+
+#### Tools
+
+- Git
+- Jenkins
+- Google Apps Scripts
+
 
 
 
