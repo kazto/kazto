@@ -7,7 +7,7 @@
 - [wantedly](https://www.wantedly.com/id/kazto)
 - [linkedin](https://www.linkedin.com/in/kazto/)
 
-### Interested In (Want to get a job)
+### Interested In
 
 - Software Engineer Recruitment
 - Software Engineer Training
