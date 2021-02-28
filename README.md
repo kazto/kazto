@@ -3,7 +3,7 @@
 ### Contacts
 
 - [kazto.dev](https://kazto.dev/)
-- [twitter](https://twitter.com/bainarian)
+- [twitter](https://twitter.com/kazto_dev)
 - [wantedly](https://www.wantedly.com/id/kazto)
 - [linkedin](https://www.linkedin.com/in/kazto/)
 
