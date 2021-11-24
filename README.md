@@ -43,6 +43,7 @@
 - Laravel
 - CakePHP
 - OpenCV
+- Ruby on Rails
 
 #### Tools
 
