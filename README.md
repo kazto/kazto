@@ -1,11 +1,22 @@
 ## Kazto TAKAHASHI
 
+### LAPRAS Score
+
+<a href="https://lapras.com/public/kawamataryo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.26&b=3.48&i=4.05&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a>
+
 ### Contacts
 
 - [kazto.dev](https://kazto.dev/)
-- [twitter](https://twitter.com/kazto_dev)
 - [wantedly](https://www.wantedly.com/id/kazto)
-- [linkedin](https://www.linkedin.com/in/kazto/)
+
+<p>
+<a href="https://github.com/kawamataryo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/kazto_dev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kazto/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/linkdin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://qiita.com/kazto" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
+<a href="https://zenn.dev/kazto" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
+</p>
+
 
 ### Interested In
 
