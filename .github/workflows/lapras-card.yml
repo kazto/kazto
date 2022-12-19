@@ -3,7 +3,10 @@ name: LAPRAS Card
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 1 * *"
+    - cron: "0 9 1 * *"
+
+env:
+  TZ: "Asia/Tokyo"
 
 jobs:
   update-card:
@@ -22,3 +25,5 @@ jobs:
           # LANG: "ja"
           # CARD_WIDTH: "400"
           # UPDATE_TIME: "true"
+        env: 
+          TZ: "Asia/Tokyo"
