@@ -2,7 +2,7 @@
 
 ### LAPRAS Score
 
-<a href="https://lapras.com/public/kazto_dev" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.26&b=3.48&i=4.05&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a>
+<a href="https://lapras.com/public/kazto_dev" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.64&b=3.48&i=3.74&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a>
 
 ### Contacts
 
