@@ -1,11 +1,13 @@
 ## Kazto TAKAHASHI
 
-### LAPRAS Score
+### Scores
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/kazto_dev" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.64&b=3.48&i=3.74&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
 Last Updated on 1/1/2023, 6:06:08 PM
 <!--END_SECTION:lapras-card-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contacts
 
