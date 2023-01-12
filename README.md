@@ -7,7 +7,7 @@
 Last Updated on 1/12/2023, 6:25:42 PM
 <!--END_SECTION:lapras-card-->
 
-[![Top Langs](https://github-readme-stats-kazto.vercel.app/api/top-langs/?username=kazto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kazto.vercel.app/api/top-langs/?username=kazto&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contacts
 
