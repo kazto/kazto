@@ -39,10 +39,13 @@ Last Updated on 5/1/2024, 6:01:07 PM</p>
 - Shell (10 years or more)
 - PHP (2 years)
 - Python (2 years)
+- TypeScript (1 year)
 
 #### Middleware
 
 - MySQL (2 years)
+- PostgreSQL (1 year)
+- Microsoft SQL Server (2 years)
 
 #### Infrastructures
 
@@ -50,6 +53,7 @@ Last Updated on 5/1/2024, 6:01:07 PM</p>
 - macOS
 - Linux
 - AWS
+- Azure
 - Docker
 - Vagrant
 
@@ -59,12 +63,16 @@ Last Updated on 5/1/2024, 6:01:07 PM</p>
 - CakePHP
 - OpenCV
 - Ruby on Rails
+- Node.js
+- Hono
+- Next.js
 
 #### Tools
 
 - Git
 - Jenkins
 - Google Apps Scripts
+- GitHub Actions
 
 
 
