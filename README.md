@@ -14,14 +14,6 @@
 [![Wantedly](https://img.shields.io/badge/Wantedly-kazto-x.svg?style=social&logo=wantedly)](https://wantedly.com/id/kazto)
 </p>
 
-### Interested In
-
-- Software Engineer Recruitment
-- Software Engineer Training
-- Engineer Team Building
-- 1 on 1
-- Community Management
-
 ### Skills
 
 #### Programming
@@ -32,6 +24,7 @@
 - [![Ruby](https://img.shields.io/badge/ruby-CC342D.svg?logo=ruby)]()
 [![Ruby on Rails](https://img.shields.io/badge/ruby_on_rails-D30001.svg?logo=rubyonrails)]()
 - [![Bash](https://img.shields.io/badge/bash-4EAA25.svg?logo=gnubash&logoColor=white)]()
+[![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?logo=zsh&logoColor=white)]()
 - [![PHP](https://img.shields.io/badge/php-777BB4.svg?logo=php&logoColor=white)]()
   [![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?logo=laravel&logoColor=white)]()
   [![CakePHP](https://img.shields.io/badge/CakePHP-D33C43.svg?logo=cakephp&logoColor=white)]()
@@ -42,7 +35,7 @@
 [![Hono](https://img.shields.io/badge/Hono-E36002.svg?logo=hono&logoColor=white)]()
 - [![Zig](https://img.shields.io/badge/Zig-F7A41D.svg?logo=zig&logoColor=white)]() (for hobby)
 
-#### Middleware
+#### Databases
 
 - [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)]()
 - [![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)]()
