@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kazto-x.svg?style=social&logo=github)](https://github.com/kazto)
 [![X](https://img.shields.io/badge/X-kazto__dev-x.svg?style=social&logo=x)](https://x.com/kazto)
 <a href="https://www.linkedin.com/in/kazto"><img src="https://img.shields.io/badge/LinkedIn-kazto-x.svg?style=social&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiMwQTY2QzIiIGQ9Ik02Ljk0IDVhMiAyIDAgMSAxLTQtLjAwMmEyIDIgMCAwIDEgNCAuMDAyTTcgOC40OEgzVjIxaDR6bTYuMzIgMEg5LjM0VjIxaDMuOTR2LTYuNTdjMC0zLjY2IDQuNzctNCA0Ljc3IDBWMjFIMjJ2LTcuOTNjMC02LjE3LTcuMDYtNS45NC04LjcyLTIuOTF6Ii8+PC9zdmc+Cg==" alt="LinkedIn"></a>
-[![Bluesky](https://img.shields.io/badge/Bluesky-kazto-x.svg?style=social&logo=bluesky)](https://bsky.app/profile/kazto.dev)
+[![Bluesky](https://img.shields.io/badge/Bluesky-kazto.dev-x.svg?style=social&logo=bluesky)](https://bsky.app/profile/kazto.dev)
 [![Zenn](https://img.shields.io/badge/Zenn-kazto-x.svg?style=social&logo=zenn)](https://zenn.dev/kazto)
 [![Qiita](https://img.shields.io/badge/Qiita-kazto-x.svg?style=social&logo=qiita)](https://qiita.com/kazto)
 [![Wantedly](https://img.shields.io/badge/Wantedly-kazto-x.svg?style=social&logo=wantedly)](https://wantedly.com/id/kazto)
