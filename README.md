@@ -75,9 +75,9 @@
 Last Updated on 2/1/2026, 6:04:31 PM</p>
 <!--END_SECTION:lapras-card-->
 
-[![Top Langs](https://github-readme-stats-kazto.vercel.app/api/top-langs/?username=kazto&layout=compact&langs_count=8&theme=nord_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazto&theme=nord_dark)]()
+[![](https://raw.githubusercontent.com/kazto/github-profile-summary-cards-kazto/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kazto/github-profile-summary-cards-kazto/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kazto/github-profile-summary-cards-kazto/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kazto/github-profile-summary-cards-kazto/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kazto/github-profile-summary-cards-kazto/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
 **kazto/kazto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
