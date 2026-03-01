@@ -72,8 +72,8 @@
 ### Scores
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/kazto_dev" target="_blank" rel="noopener noreferrer"><img alt="kazto_devのLAPRASでのスコアは次の通りです: エンジニアリング: 3.6 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.84 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.6&b=3.48&i=3.84&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 2/1/2026, 6:04:31 PM</p>
+<p ><a href="https://lapras.com/public/kazto_dev" target="_blank" rel="noopener noreferrer"><img alt="kazto_devのLAPRASでのスコアは次の通りです: エンジニアリング: 3.61 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.84 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.61&b=3.48&i=3.84&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 3/1/2026, 6:03:34 PM</p>
 <!--END_SECTION:lapras-card-->
 
 [![](https://raw.githubusercontent.com/kazto/github-profile-summary-cards-kazto/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
